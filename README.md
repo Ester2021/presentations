@@ -1,4 +1,10 @@
 # Weekly meetings
-1. Farhad Nikfarjam, Slug capturing(30/04/2021)
+1. Farhad Nikfarjam, Slug capturing (30/04/2021)
 2. Khalil Kashefi, EOS and PVT (07/05/2021)
 3. Daniel Cruz, Gas entrainment (14/05/2021)
+4. Danilo Naiff, Population balance (21/05/2021)
+5. Cecilia Mageski, Experimental aparatus (28/05/2021)
+6. Fabio Ramos, Gaussian process (04/06/2021)
+7. Farhad Nikfarjam, Time integeration (11/06/2021)
+8. Khalil Kashefi, advanced EOSs (18/06/2021)
+9. Daniel Cruz, Velocity distribution (25/06/2021)
