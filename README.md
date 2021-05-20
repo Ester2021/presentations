@@ -1,5 +1,5 @@
 # Weekly meetings
-1. Farhad Nikfarjam, Slug capturing (30/04/2021) - [PDF](https://pages.github.com/)
+1. Farhad Nikfarjam, Slug capturing (30/04/2021) - [PDF](https://github.com/Ester2021/presentations/blob/main/weeklypresentations/Farhad_30_04_21.pdf)
 2. Khalil Kashefi, EOS and PVT (07/05/2021)
 3. Daniel Cruz, Gas entrainment (14/05/2021)
 4. Danilo Naiff, Population balance (21/05/2021)
