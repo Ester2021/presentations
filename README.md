@@ -1,7 +1,7 @@
 # Weekly meetings
 1. Farhad Nikfarjam, Slug capturing (30/04/2021) - [PDF](https://github.com/Ester2021/presentations/blob/main/weeklypresentations/Farhad_30_04_21.pdf)
-2. Khalil Kashefi, EOS and PVT (07/05/2021)
-3. Daniel Cruz, Gas entrainment (14/05/2021)
+2. Khalil Kashefi, EOS and PVT (07/05/2021) - [PDF](https://github.com/Ester2021/presentations/blob/main/weeklypresentations/PVT%20and%20flash%20calc%20-%207May2021.pptx)
+3. Daniel Cruz, Gas entrainment (14/05/2021) - [PDF](https://github.com/Ester2021/presentations/blob/main/weeklypresentations/A%20model%20for%20simulating%20gas%20bubble%20entrainment%20in%20short.pptx)
 4. Danilo Naiff, Population balance (21/05/2021)
 5. Cecilia Mageski, Experimental aparatus (28/05/2021)
 6. Fabio Ramos, Gaussian process (04/06/2021)
