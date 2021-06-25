@@ -8,5 +8,6 @@
 7. Farhad Nikfarjam, Time integeration (18/06/2021)
 8. Khalil Kashefi, advanced EOSs (25/06/2021)
 9. Fabio Ramos, Gaussian process II (02/07/2021)
-10. Gustavo Oviedo, Scaling in complex geometries (09/07/2021)
-11. Daniel Cruz, Velocity distribution (16/07/2021)
+10. Mateus Ramirez, Super resolution reconstruction of rock images (09/07/2021)
+11. Gustavo Oviedo, Scaling in complex geometries (16/07/2021)
+12. Daniel Cruz, Velocity distribution (23/07/2021)
